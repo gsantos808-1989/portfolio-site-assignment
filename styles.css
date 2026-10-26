@@ -1,0 +1,44 @@
+/* Type Selector */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+    margin: 20px;
+}
+
+/* Type Selector */
+nav {
+    background-color: #cc0000;
+    padding: 15px;
+    border: 2px solid white;
+}
+
+/* ID Selector */
+#main-title {
+    color: #cc0000;
+    text-align: center;
+}
+
+/* Class Selector */
+.content-box {
+    background-color: #333333;
+    padding: 20px;
+    margin: 20px 0;
+    border: 3px solid #cc0000;
+}
+
+/* Class Selector */
+.project-card {
+    background-color: #333333;
+    padding: 15px;
+    margin: 15px 0;
+    border: 2px solid #cc0000;
+}
+
+/* Type Selector */
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid white;
+    text-align: center;
+}
