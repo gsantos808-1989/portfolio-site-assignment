@@ -8,7 +8,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f4f4f4;
-    color: #333333;
+    color: #000000;
     margin: 0;
     line-height: 1.6;
 }
@@ -24,8 +24,8 @@ h3 {
 ====================== */
 
 #main-header {
-    background-color: #1f4e79;
-    color: white;
+    background-color: #000000;
+    color: #FFFFFF;
     text-align: center;
     padding: 24px;
 }
@@ -86,7 +86,7 @@ main {
 }
 
 .project-card {
-    background-color: white;
+    background-color: #FFFFFF;
     padding: 24px;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
