@@ -25,7 +25,7 @@ h3 {
 
 #main-header {
     background-color: #000000;
-    color: #DC143C;
+    color: #FF0000;
     text-align: center;
     padding: 24px;
 }
@@ -35,7 +35,7 @@ nav {
 }
 
 nav a {
-    color: #CC0000;
+    color: #FF0000;
     text-decoration: none;
     margin: 0 12px;
     font-weight: bold;
@@ -54,7 +54,7 @@ main {
 }
 
 .content-box {
-    background-color: #333333;
+    background-color: #000000;
     padding: 24px;
     margin-bottom: 24px;
     border-radius: 8px;
