@@ -94,7 +94,7 @@ main {
 }
 
 .project-card h3 {
-    color: #DC143C;
+    color: #FF0000;
 }
 
 /* ======================
@@ -103,7 +103,7 @@ main {
 
 footer {
     background-color: #000000;
-    color: #FF000000;
+    color: #333333;
     text-align: center;
     padding: 16px;
     margin-top: 32px;
