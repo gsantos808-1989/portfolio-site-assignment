@@ -193,4 +193,8 @@ footer {
     text-align: center;
     margin: 15px 0;
 }
+
+   .content-box p {
+    text-align: center;
+}
 }
