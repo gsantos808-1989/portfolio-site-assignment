@@ -42,3 +42,12 @@ footer {
     border: 2px solid white;
     text-align: center;
 }
+.profile-image {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+}
