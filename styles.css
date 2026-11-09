@@ -105,6 +105,36 @@ main {
     color: #FF0000;
 }
 
+.contact-form {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.contact-form label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.contact-form button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.error-message {
+    color: red;
+}
 /* ======================
    Footer
 ====================== */
