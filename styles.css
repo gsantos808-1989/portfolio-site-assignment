@@ -41,6 +41,14 @@ nav a {
     font-weight: bold;
 }
 
+.profile-image {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
 nav a:hover {
     text-decoration: underline;
 }
