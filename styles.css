@@ -187,4 +187,10 @@ footer {
     .project-card {
         padding: 16px;
     }
+
+   .content-box h3 {
+    color: red;
+    text-align: center;
+    margin: 15px 0;
+}
 }
