@@ -1,7 +1,7 @@
 :root {
    --primary: #EC0B43; /* 30%: text, header */
-   --accent: #6E7E85; /* 10%: boarders, highlights*/
-   --neutral: #00120B; /* 60% page barkground */
+   --accent: #565857; /* 10%: boarders, highlights*/
+   --neutral: #1E1E24; /* 60% page barkground */
 }
 
 /* Google Fonts */
