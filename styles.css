@@ -1,3 +1,9 @@
+:root{
+   --primary: #05f148; /* 30%: text, header */
+   --accent: #565857; /* 10%: boarders, highlights */
+   --neutral: #1E1E24; /* 60% page background*/
+}
+
 /* Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Merriweather:wght@400;700&display=swap');
 
@@ -7,8 +13,8 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #f4f4f4;
-    color: #FF0000;
+    background-color: var(--neutral);
+    color: var(--primary);
     margin: 0;
     line-height: 1.6;
 }
@@ -24,8 +30,8 @@ h3 {
 ====================== */
 
 #main-header {
-    background-color: #000000;
-    color: #FF0000;
+    background-color: var(--neutral);
+    color: var(--primary);
     text-align: center;
     padding: 24px;
 }
@@ -35,7 +41,7 @@ nav {
 }
 
 nav a {
-    color: #FF0000;
+    color: var(--primary);
     text-decoration: none;
     margin: 0 12px;
     font-weight: bold;
@@ -54,7 +60,7 @@ main {
 }
 
 .content-box {
-    background-color: #000000;
+    background-color: var(--accent);
     padding: 24px;
     margin-bottom: 24px;
     border-radius: 8px;
@@ -86,7 +92,7 @@ main {
 }
 
 .project-card {
-    background-color: #000000;
+    background-color: var(--accent);
     padding: 24px;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -94,7 +100,7 @@ main {
 }
 
 .project-card h3 {
-    color: #FF0000;
+    color: var(--primary);
 }
 
 /* ======================
@@ -102,8 +108,8 @@ main {
 ====================== */
 
 footer {
-    background-color: #000000;
-    color: #ff0202;
+    background-color: var(--neutral);
+    color: var(--primary);
     text-align: center;
     padding: 16px;
     margin-top: 32px;
