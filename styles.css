@@ -115,6 +115,15 @@ footer {
     margin-top: 32px;
 }
 
+#main-header.dark-theme {
+   background-color: #222;
+   color: white;
+}
+
+#main-header.dark-theme a {
+   color: white;
+}
+
 /* ======================
    Tablet
 ====================== */
@@ -155,6 +164,7 @@ footer {
     .project-card {
         padding: 16px;
     }
+}
 
 .profile-image {
     display: block;
